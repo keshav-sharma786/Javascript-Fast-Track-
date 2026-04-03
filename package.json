@@ -1,0 +1,24 @@
+{
+  "name": "jsqspidersfasttrack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "lodash": "^4.18.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshav-sharma786/Javascript-Fast-Track-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/keshav-sharma786/Javascript-Fast-Track-/issues"
+  },
+  "homepage": "https://github.com/keshav-sharma786/Javascript-Fast-Track-#readme"
+}
